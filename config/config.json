@@ -1,0 +1,8 @@
+{
+  "enviornments": {
+    "QA": {
+      "url": "https://www.saucedemo.com/",
+      "MAX_NUMBER_OF_ATTEMPTS": 3
+    }
+  }
+}
